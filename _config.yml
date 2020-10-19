@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Alireza Golkarieh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/header_01" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "Ann Arbor, MI"
   email            : "aligol@umich.edu"
